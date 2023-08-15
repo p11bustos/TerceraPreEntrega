@@ -1,0 +1,113 @@
+body {
+
+    background-color: bisque;
+}
+
+.padreCoraje {
+    margin-left: 40%;
+}
+
+.titulo1 {
+text-align: center;
+color: grey;
+width: 50%;
+    height: 80px;
+    display: grid;
+    place-items: center;
+    background-color: rgb(223, 203, 179);
+    border: 8px outset rgb(219, 217, 180);
+
+   
+
+    
+}
+
+.menuPrincipal {
+    width: 30%;
+    height: 100px;
+    background-color: bisque;
+    border: 8px outset grey;
+    
+}
+
+a {
+text-decoration: dashed;
+    
+    text-transform: uppercase;
+    color: grey;
+font-size: 15px;
+
+}
+
+.footer1 {
+    float: right;
+font-size: 10px;
+text-transform: uppercase;
+color: indigo;
+position: sticky;
+}
+
+.parrafoUno {
+    color: black;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+
+.parrafoDos {
+    color: black;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.redes1 {
+
+    font-size: 15px;
+    color: indigo;
+}
+
+.workAndhollidays1 {
+
+   background-color: bisque;
+}
+
+.testimonios1 {
+
+background-image: url(../img/tour.jpg);
+background-size: cover;
+
+}
+
+.servicios1 {
+
+    background-image: url(../img/tour.jpg);
+    background-size: cover;
+}
+
+.contactanos1 {
+    background-image: url(../img/tour.jpg);
+    background-size: cover;
+}
+
+.colorFooter {
+    color: indigo;
+}
+
+.segundoEncabezado {
+
+    font-size: 25px;
+}
+
+.tituloOrdenado {
+
+}
+
+.tamañoEscudo {
+    width: 75px;
+}
+
+.margen1 {
+width: 10px;
+height: 10px;
+    position: relative;
+}
